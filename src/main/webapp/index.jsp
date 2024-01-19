@@ -16,17 +16,17 @@
     
     is a link to another nifty site
     
-    <H1>This is a Header</H1>
+    <H1>SIVAA NETHAJI SAMPLE PROJECT</H1>
     
-    <H2>This is a Medium Header</H2>
+    <H2>It is created as part of GIT-JENKINS</H2>
     
-    Send me mail at <a href="mailto:support@yourcompany.com">
+    Send me mail at <a href="mailto:sivakumar.nethaji@walmart.com">
     
-    support@yourcompany.com</a>.
+    Sivaa Nethaji</a>.
     
-    <P> This is a new paragraph!
+    <P> Sivakuamr Nethaji
     
-    <P> <B>This is a new paragraph!</B>
+    <P> <B>Test application</B>
     
     <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
     
