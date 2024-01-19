@@ -8,7 +8,7 @@
     
     <BODY BGCOLOR="FFFFFF">
     
-    <CENTER><IMG SRC="Yellow.png" ALIGN="BOTTOM"> </CENTER>
+    <CENTER><IMG SRC="Yellow001.png" ALIGN="BOTTOM"> </CENTER>
     
     <HR>
     
@@ -26,7 +26,7 @@
     
     <P> Sivakumar Nethaji
     
-    <P> <B>Saral Mariyaprakasam</B>
+    <P> <B>My Sample Page </B>
     
     <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
     
