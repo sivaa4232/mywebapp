@@ -14,7 +14,7 @@
     
     <a href="http://54.209.69.199:8080/">Server Home Page</a>
     
-    is a link to another nifty site
+    is a link to home page
     
     <H1>SIVAA NETHAJI SAMPLE PROJECT</H1>
     
@@ -24,9 +24,9 @@
     
     Sivaa Nethaji</a>.
     
-    <P> Sivakuamr Nethaji
+    <P> Sivakumar Nethaji
     
-    <P> <B>Test application</B>
+    <P> <B>Saral Mariyaprakasam</B>
     
     <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
     
